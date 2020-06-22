@@ -17,7 +17,7 @@ An executable was implemented that makes use of the matrix and vector functional
 
 ### Build
 ```
-git clone
+git clone https://github.com/sebdengler/matrix-operations.git
 cd matrix-operations
 mkdir build && cd build
 cmake ..
